@@ -6,8 +6,8 @@ build
 
 # IDEs
 
-.vscode/
-.idea/
+.vscode
+.idea
 .nbproject
 
 # Files

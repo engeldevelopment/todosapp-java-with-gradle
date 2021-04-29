@@ -5,9 +5,9 @@
 build
 
 # IDEs
-
-.vscode/
-.idea/
+.settings
+.vscode
+.idea
 .nbproject
 
 # Files

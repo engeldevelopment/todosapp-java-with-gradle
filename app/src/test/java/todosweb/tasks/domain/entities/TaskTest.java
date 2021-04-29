@@ -1,12 +1,11 @@
-package todosweb;
+package todosweb.tasks.domain.entities;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import todosweb.entities.Task;
-import todosweb.exceptions.TaskWasDoneException;
+import todosweb.tasks.domain.exceptions.TaskWasDoneException;
 
 
 public class TaskTest {

@@ -1,6 +1,6 @@
-package todosweb.entities;
+package todosweb.tasks.domain.entities;
 
-import todosweb.exceptions.TaskWasDoneException;
+import todosweb.tasks.domain.exceptions.TaskWasDoneException;
 
 public class Task {
     private String name;
